@@ -1,0 +1,35 @@
+{
+    "author": "shawnleemap@gmail.com",
+    "dependencies": {
+        "pebble-clay": "^1.0.3"
+    },
+    "keywords": [],
+    "name": "sos",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "SOS signal beacon",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "SOSMessage"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "4fa55a1b-4759-4717-92c7-fc1267577e8f",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
