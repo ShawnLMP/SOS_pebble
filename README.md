@@ -1,7 +1,1 @@
 # SOS_pebble 
- 
-Fitbit acquired Pebble when I am (or was, depending on if you are reading this after Jan 6th 2017) interning in Fitbit. As requested by my supervisor, I did some investigation on Pebble's platform, and came up with this as the first Pebble app. My supervisor and I are both UWaterloo students. Pebble is kind of originated from UWaterloo, too. 
- 
-I have a very complicated feeling about Fitbit acquiring Pebble. On one hand, as a Fitbit intern that has so much appreciation to Fitbit as Fitbit treats me very well, I am happy and excited about this as this is going to enhance Fitbit's smart tracker significantly. On the other hand, as a UWaterloo student, I am a bit upset -- UWaterloo undeniably contributes a lot of high quality programmers and engineers, but very frankly speaking, very few entrepreneurs. Pebble is one thing that UWaterloo students are proud of, and often mentioned when they are introducing UWaterloo to others. But now as Fitbit announced, it is going to take over Pebble's intellectual property and discard its product. 
- 
-Anyway, this app, you can see it as a tribute to Pebble, as one of the most famous companies founded by UWaterloo student, as one of the first companies to launch smart watch (much earlier than Apple), as one of the most successful cases on Kickstarter. 
